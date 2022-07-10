@@ -13,3 +13,8 @@ let myLibraryFunction;
 True             // Boolean literal expression
 null             // null literal expression
 
+// STEP 3
+// complex / variable expressions
+let theFirstAssignment = (100 - 0.5 * 20 ) /5;
+let theResult = true || null;
+
