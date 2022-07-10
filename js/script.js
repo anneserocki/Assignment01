@@ -49,3 +49,10 @@ let myLibraryFunction;
 // let numRoom = 30, isAllEmpty = true;
 // let allEmpty = numRoom + isAllEmpty;
 // console.info(allEmpty);
+
+// STEP 8
+// string literal valid
+// let someString = 'Who once said, "Only two things are infinite, the universe and human stupidity, and I\'m not sure about the former."';
+// window.console.log(someString);
+
+
