@@ -79,8 +79,10 @@ let myLibraryFunction;
 
 // STEP 11
 // use the concatenation operator (+)
-// let greet = 'Hello Zak Ruvalcaba, ';
-// let yourClass = 'welcome to the JavaScript class!';
-// alert(greet + yourClass);
+// let greet = 'Hello ';
+// let myName = 'Anne'
+// let yourClass = ', welcome to the JavaScript class!';
+// alert(greet + ' ' + myName + yourClass);
+
 
 
