@@ -102,3 +102,8 @@ let myLibraryFunction;
 // let $yourName = prompt(`Please enter your name`);
 // console.log('Hello' + ' ' + $yourName + '.\nWelcome to the JavaScript class!');
 // alert('Hello' + ' ' + $yourName + '.\nWelcome to the JavaScript class!');
+
+// STEP 16 PROMPT
+// let $yourName = prompt(`Please enter your name`);
+// let yourClass = prompt(`Please enter your class name`);
+// alert('Hello' + ' ' + $yourName + '.\nWelcome to the' + ' ' + yourClass + ' ' + 'class!');
