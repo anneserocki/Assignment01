@@ -94,3 +94,6 @@ let myLibraryFunction;
 // let myName = 'Anne';
 // let course = 'JavaScript';
 // alert(greet + ' ' + myName + ', welcome to the' + ' ' + course + ' ' + 'class!');
+
+// STEP 14:  Line break
+// alert('Hello Zak Ruvalcaba.\nWelcome to the JavaScript class!');
