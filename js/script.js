@@ -55,4 +55,12 @@ let myLibraryFunction;
 // let someString = 'Who once said, "Only two things are infinite, the universe and human stupidity, and I\'m not sure about the former."';
 // window.console.log(someString);
 
+// STEP 9
+// null and undefined value
+// let x = 2; x = null;
+// let z;
+// alert(x);
+// alert(z);
 
+// STEP 10
+// 
