@@ -97,3 +97,8 @@ let myLibraryFunction;
 
 // STEP 14:  Line break
 // alert('Hello Zak Ruvalcaba.\nWelcome to the JavaScript class!');
+
+// STEP 15 PROMPT
+// let $yourName = prompt(`Please enter your name`);
+// console.log('Hello' + ' ' + $yourName + '.\nWelcome to the JavaScript class!');
+// alert('Hello' + ' ' + $yourName + '.\nWelcome to the JavaScript class!');
