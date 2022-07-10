@@ -15,6 +15,12 @@ null             // null literal expression
 
 // STEP 3
 // complex / variable expressions
-let theFirstAssignment = (100 - 0.5 * 20 ) /5;
-let theResult = true || null;
+let $theFirstAssignment = (100 - 0.5 * 20 ) /5;
+let _theResult = true || null;
+
+// STEP 4
+// DECLARE MANY VARIABLES
+let firstName, lastName, address, city, state, zipCode, yourAge, referralSource, mayWeContactYou; // Camel Casing
+let txtFirstName, txtLastName, txtAddress, txtCity, txtState, numZipCode, numYourAge, txtReferralSource, celMayWeContactYou; // Hungarian Notation
+
 
