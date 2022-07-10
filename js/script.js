@@ -77,15 +77,20 @@ let myLibraryFunction;
 //  let mine = typeof z;
 //  alert(mine);
 
-// STEP 11 AND STEP 12
+// STEP 11
 // use the concatenation operator (+)
 // let greet = 'Hello ';
 // let yourClass = 'Anne, welcome to the JavaScript class!';
 // alert(greet + ' ' + yourClass);
 
-// STEP 13
-let greet = 'Hello ';
-let myName = 'Anne'
-let yourClass = ', welcome to the JavaScript class!';
-alert(greet + ' ' + myName + yourClass);
+// STEP 12
+// let greet = 'Hello ';
+// let myName = 'Anne';
+// let yourClass = ', welcome to the JavaScript class!';
+// alert(greet + ' ' + myName + yourClass);
 
+// STEP 13
+// let greet = 'Hello ';
+// let myName = 'Anne';
+// let course = 'JavaScript';
+// alert(greet + ' ' + myName + ', welcome to the' + ' ' + course + ' ' + 'class!');
