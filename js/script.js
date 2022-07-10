@@ -63,4 +63,17 @@ let myLibraryFunction;
 // alert(z);
 
 // STEP 10
-// 
+// The unary typeof operator on various literals
+// let today = typeof 'Today is a sunny day.';  //returns string
+// alert(today);
+// let numRoom = typeof 30;
+// alert(numRoom);
+// let isMale = typeof true;
+// alert(isMale);
+// let car = new Object();
+// let myCar = typeof car;
+// alert(myCar);
+//  let z;
+//  let mine = typeof z;
+//  alert(mine);
+
