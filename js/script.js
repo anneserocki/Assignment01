@@ -1,17 +1,17 @@
 // STEP 1 
 // Convert the following highlighted identifiers to Camel Case notation
 let someMonth;
-function theMonth();
+function theMonth(){};
 let currentMonth;
 let summerMonth;
 let myLibraryFunction;
 
 // STEP 2
 // Literal Expression
-8.8              // numeric literal expression
-'My Assignment'  // string literal expression
-True             // Boolean literal expression
-null             // null literal expression
+// 8.8              // numeric literal expression
+// 'My Assignment'  // string literal expression
+// True             // Boolean literal expression
+// null             // null literal expression
 
 // STEP 3
 // complex / variable expressions
@@ -34,5 +34,18 @@ null             // null literal expression
 // let lastName = 'Chao';
 // let zipCode = 92122;
 // Way 3
-let firstName = 'Minge', lastName = 'Chao', zipCode = 92122;
+// let firstName = 'Minge', lastName = 'Chao', zipCode = 92122;
 
+// STEP 6
+// Variable Coercion: string + number --> string
+// alert(`Anne lives in San Diego` + ', ' + 'CA ' + 92122);
+
+// STEP 7
+// Variable Coercion: string + boolean --> string
+// let isZero = false, theTempreture = 'Now the tempreture is';
+// let today = theTempreture + ' ' + isZero;
+// console.info(today);
+// Variable Coercion: number + boolean --> number
+// let numRoom = 30, isAllEmpty = true;
+// let allEmpty = numRoom + isAllEmpty;
+// console.info(allEmpty);
