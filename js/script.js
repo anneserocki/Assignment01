@@ -121,3 +121,7 @@ let myLibraryFunction;
 // let x = 20;
 // console.log(x *= 5);
 
+// STEP 20
+// let x = 20 % 3;
+// console.log(x /=1);
+
