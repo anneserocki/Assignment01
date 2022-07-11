@@ -133,3 +133,12 @@ let myLibraryFunction;
 //     console.log('Anne is at home.')
 // }; // end function
 
+// STEP 22
+// let isSnow, tempreture;
+// isSnow = false;
+// if (isSnow && tempreture > 0) {
+//     console.log('It won\'t snow. ')
+// } else {
+//     console.log(`It will snow.`)
+// }; // end if...else
+
