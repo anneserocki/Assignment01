@@ -107,3 +107,9 @@ let myLibraryFunction;
 // let $yourName = prompt(`Please enter your name`);
 // let yourClass = prompt(`Please enter your class name`);
 // alert('Hello' + ' ' + $yourName + '.\nWelcome to the' + ' ' + yourClass + ' ' + 'class!');
+
+// STEP 17 ADDITION OPERATOR
+// let x = 10, y = 20;
+// let sum = x + y;
+// console.log(sum);
+
