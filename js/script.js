@@ -114,5 +114,10 @@ let myLibraryFunction;
 // console.log(sum);
 
 // STEP 18
-let x = 20;
+// let x = 20;
 // console.log(x += 20);
+
+// STEP 19 MULTIPLY
+// let x = 20;
+// console.log(x *= 5);
+
