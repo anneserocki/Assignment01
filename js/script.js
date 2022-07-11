@@ -121,7 +121,15 @@ let myLibraryFunction;
 // let x = 20;
 // console.log(x *= 5);
 
-// STEP 20
+// STEP 20 Modulus, Divide and assign
 // let x = 20 % 3;
 // console.log(x /=1);
+
+// STEP 21
+// let workingTime = Number(prompt(`Please enter number`));
+// if (workingTime >= 9) {
+//     console.log(`Anne is at work.`)
+// } else {
+//     console.log('Anne is at home.')
+// }; // end function
 
