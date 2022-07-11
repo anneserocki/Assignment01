@@ -113,3 +113,6 @@ let myLibraryFunction;
 // let sum = x + y;
 // console.log(sum);
 
+// STEP 18
+let x = 20;
+// console.log(x += 20);
